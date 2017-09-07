@@ -1,0 +1,131 @@
+Protobuf语言指南
+http://www.cnblogs.com/dkblog/archive/2012/03/27/2419010.html
+Google Protocol Buffer 的使用和原理
+www.ibm.com/developerworks/cn/linux/l-cn-gpb/
+linux .sh文件语法
+blog.sina.com.cn/s/blog_54f82cc201010hfz.html
+
+
+Ubuntu16.04+CUDA8.0+caffe配置   
+http://www.linuxdiyf.com/linux/24659.html   大部分参考这里 opencv（有warning，查了好久没成功，忽略了）
+http://blog.csdn.net/g0m3e/article/details/51420565    安装驱动是照这里的第一个方法
+http://www.2cto.com/os/201607//528798.html  cuda安装
+http://www.cnblogs.com/djiankuo/p/5886605.html 测试cuda 
+http://blog.csdn.net/zhongshijunacm/article/details/52824894 测试cuda的sample
+http://blog.csdn.net/leo_xu06/article/details/53010900 配置python
+http://www.cnblogs.com/platero/p/4118139.html  NVIDIA CuDNN 安装说明   重要！！
+http://www.mamicode.com/info-detail-1003750.html 解决 usr/bin/ld:cannot find -lxxx的错误的思路（caffe 配置中 make runtest出现的错）
+http://blog.csdn.net/lee_j_r/article/details/52693724 mnist测试 
+http://blog.csdn.net/gwzz1228/article/details/34424179  如何解决make: Nothing to be done for `all' 的方法
+其他参考
+http://blog.csdn.net/leo_xu06/article/details/53010900
+
+
+caffe深度学习框架上手教程
+http://suanfazu.com/t/caffe/281
+caffe入门学习
+http://blog.csdn.net/hjimce/article/details/48933813
+ufldl教程
+http://ufldl.stanford.edu/tutorial/
+深度卷积网络CNN与图像语义分割
+http://blog.csdn.net/xiahouzuoxin/article/details/47789361
+
+
+caffe学习笔记1 CIFAR-10在caffe上进行训练与学习-薛开宇   对着caffe/example/mnist/readme.md 做   成功
+http://www.docin.com/p-871820917.html?docfrom=rrela
+caffe学习笔记2 用一个预训练模型提取特征-薛开宇  没成功
+http://www.docin.com/p-871820918.html
+caffe学习笔记3 用自己的数据训练和测试-薛开宇   对着caffe/example/imagenet/readme.md 做
+http://www.docin.com/p-871820919.html
+caffe学习笔记4 学习搭建自己的网络——MNIST在caffe上进行训练与学习-薛开宇  成功
+http://www.docin.com/p-871820920.html
+
+对着caffe/example/00-classification.ipynb进行学习 ing
+使用caffe训练好的模型进行分类  
+http://blog.csdn.net/thy_2014/article/details/51648730
+提取caffe前馈的中间结果+逐层可视化
+http://blog.csdn.net/thy_2014/article/details/51659300
+
+
+caffe 学习笔记（一）
+http://m.blog.csdn.net/article/details?id=44948487
+caffe学习笔记（二）--MNIST实例
+http://m.blog.csdn.net/article/details?id=44984485
+caffe学习笔记（三）ImageNet实例
+http://m.blog.csdn.net/article/details?id=45078511  对ImageNet几个训练好的BVLC模型介绍比较重要
+
+
+ 
+学习笔记：Caffe上配置和运行MNIST   内含测试的方法
+http://blog.sina.com.cn/s/blog_78fd98af0102w5m6.html
+
+
+caffe简易上手指南（二）—— 训练我们自己的数据
+http://www.cnblogs.com/alexcai/p/5469436.html
+
+
+Jupyter Notebook 快速入门（上）
+http://www.codingpy.com/article/getting-started-with-jupyter-notebook-part-1/
+Jupyter Notebook 快速入门（下）
+http://www.codingpy.com/article/getting-started-with-jupyter-notebook-part-2/
+十分钟入门Matplotlib
+http://www.codingpy.com/article/a-quick-intro-to-matplotlib
+使用Python进行科学计算：NumPy入门
+http://www.codingpy.com/article/an-introduction-to-numpy/
+
+caffe命令及其参数
+http://www.cnblogs.com/CQUTWH/p/5932570.html
+python绘制caffe实例的网络模型
+http://blog.csdn.net/lanxuecc/article/details/53261058
+
+LaTex基本语法
+http://www.cnblogs.com/ywl925/p/3671827.html
+
+
+MATLAB入门教程
+http://blog.csdn.net/lxdfigo/article/details/8279962
+
+Caffe学习：pycaffe接口配置
+http://blog.csdn.net/u011762313/article/details/47624119
+
+
+【caffe-Windows】caffe+VS2013+Windows无GPU快速配置教程
+http://m.blog.csdn.net/article/details?id=51355143
+
+Matlab2014经典超强教程.pdf
+http://max.book118.com/html/2015/0106/11140144.shtm
+
+多尺度与多分辨率的理解
+http://blog.sina.com.cn/s/blog_75e063c10101eouo.html
+
+尺度空间的理解 
+http://wenku.baidu.com/link?url=d3A2X7jGfL4yNK4lHz0mshXX94RZx62rinqT-t5ZgvrETCCU2Rf7K3OGBVRTvIA6fKwsRu1FNd41bmZDkmJzV4RL1JUOpCzbV1QK5Sfxrt3
+
+记我安装Caffe的血泪史（2）
+http://www.cnblogs.com/fanninnypeom/p/5982719.html
+linux下安装google protobuf（详细）
+http://blog.csdn.net/xiexievv/article/details/47396725
+
+
+从深度学习选择什么样的gpu来谈谈gpu的硬件架构
+http://blog.csdn.net/feixue67600/article/details/51772384
+
+
+matlab
+
+Matlab中有15种基本数据类型 
+http://blog.sina.com.cn/s/blog_7071fc6f0100zkkh.html
+Matlab中函数句柄@的作用及介绍
+http://blog.csdn.net/kevinhg/article/details/8861774
+
+梳理caffe代码net(四)
+http://blog.csdn.net/langb2014/article/details/50987593
+
+在MATLAB下调试Caffe
+http://www.aichengxu.com/view/2422137
+重要！！！
+caffe的Matlab接口的使用方法
+http://blog.csdn.net/ws_20100/article/details/50525879
+也重要！！
+向量化编程:arrayfun及cellfun函数的使用
+http://blog.sina.com.cn/s/blog_49c02a8c0100yt26.html
